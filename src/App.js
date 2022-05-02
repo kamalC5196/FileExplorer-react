@@ -55,7 +55,7 @@ export default function App() {
   return (
     <>
       {explorer.map((e, i) => (
-        <Display explorer={e} />
+        <Display explorer={e} key={i} />
       ))}
     </>
   );
