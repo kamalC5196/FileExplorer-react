@@ -1,3 +1,2 @@
-# react-sk8q4s
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-sk8q4s)
+React based File Explorer app.
+Uses recursion to map through dynamic changes
